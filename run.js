@@ -7,11 +7,13 @@
 var async = require('async');
 
 var name = process.argv[2];
+
 if (!name) throw new Error('请指定要测试的项目');
-
-
 var TIMES = 10000;
 var PARTS = 10;
+
+var times = Number(process.argv[3]);
+if (times > 0) TIMES = times;
 
 var project = require('./' + name + '/client');
 
