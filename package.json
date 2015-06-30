@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/leizongmin/clouds-benchmark",
   "dependencies": {
+    "amqp-rpc": "0.0.8",
     "async": "^1.3.0",
     "clouds": "^0.1.12",
     "clouds-controller": "0.0.2",
