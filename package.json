@@ -19,6 +19,7 @@
   "dependencies": {
     "async": "^1.3.0",
     "clouds": "^0.1.12",
-    "clouds-controller": "0.0.2"
+    "clouds-controller": "0.0.2",
+    "dnode": "^1.2.1"
   }
 }
