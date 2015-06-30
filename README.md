@@ -15,9 +15,15 @@ function test_add (a, b) {
 
 每个测试重复执行10次，测试结果去掉最大值和最小值，再取平均值
 
-+ 测试机器配置：Aliyun ECS / 1 CPU / 2G RAM
+服务器配置：
+
++ 系统：Aliyun ECS / 1 CPU / 2G RAM
 + Node.js版本：Node v0.12.5
 + Redis版本：3.0.2 stable
++ rabbitmq-server：3.2.4
+
+NPM模块版本：
+
 + clouds@0.1.12
 + clouds-controller@0.0.2
 + dnode@1.2.1
