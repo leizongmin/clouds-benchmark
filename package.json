@@ -20,6 +20,9 @@
     "async": "^1.3.0",
     "clouds": "^0.1.12",
     "clouds-controller": "0.0.2",
-    "dnode": "^1.2.1"
+    "dnode": "^1.2.1",
+    "engine.io": "^1.5.1",
+    "engine.io-client": "^1.5.1",
+    "eureca.io": "^0.6.41"
   }
 }
