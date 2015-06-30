@@ -1,0 +1,24 @@
+{
+  "name": "clouds-benchmark",
+  "version": "1.0.0",
+  "description": "clouds模块性能测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leizongmin/clouds-benchmark.git"
+  },
+  "author": "Zongmin Lei <leizongmin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leizongmin/clouds-benchmark/issues"
+  },
+  "homepage": "https://github.com/leizongmin/clouds-benchmark",
+  "dependencies": {
+    "async": "^1.3.0",
+    "clouds": "^0.1.12",
+    "clouds-controller": "0.0.2"
+  }
+}
