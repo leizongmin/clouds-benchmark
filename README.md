@@ -1,4 +1,6 @@
 # clouds-benchmark
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/leizongmin/clouds-benchmark.svg)](https://greenkeeper.io/)
 clouds模块性能测试
 
 执行以下函数：
